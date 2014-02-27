@@ -1,0 +1,12 @@
+{
+  "name": "Oblivion",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A customized Oblivion theme",
+  "repository": "https://github.com/jbrooksuk/atom-oblivion",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
