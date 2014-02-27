@@ -1,7 +1,7 @@
 {
   "name": "Oblivion",
   "theme": "syntax",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "private": true,
   "description": "A customized Oblivion theme",
   "repository": "https://github.com/jbrooksuk/atom-oblivion",
